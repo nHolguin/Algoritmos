@@ -7,7 +7,7 @@ package ui;
 
 /**
  *
- * @author Anita
+ * @author Nimrod
  */
 public class exampleUI extends javax.swing.JFrame {
 
