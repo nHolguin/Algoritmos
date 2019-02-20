@@ -7,7 +7,8 @@ package ui;
 
 /**
  *
- * @author Nim
+ * @author Nimrod
+>>>>>>> 98057fcae7901138bd31c5f58ba4db271a67aff8
  */
 public class exampleUI extends javax.swing.JFrame {
 
