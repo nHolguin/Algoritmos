@@ -20,7 +20,7 @@ public class Algoritmos {
         n.setNum(10);
         
         System.out.println("Hello World!");
-        System.out.println("A simple number: "+n.sumNumber());
+        System.out.println("This is simple number: "+n.sumNumber());
         
     }
     
