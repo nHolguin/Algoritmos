@@ -21,6 +21,7 @@ public class Algoritmos {
         
         System.out.println("Hello World!");
         System.out.println("This is simple number: "+n.sumNumber());
+        System.out.println("Thank you!");
         
     }
     
